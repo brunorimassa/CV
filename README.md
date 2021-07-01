@@ -1,2 +1,2 @@
-# CV
-90's style Curriculum
+# TinDog
+WebPage made to train HTML, CSS and Bootstrap skills
